@@ -17,6 +17,7 @@
   "author": "Nataliia Zlydenna <nzlydenna@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "node.js": "^0.0.1-security",
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
   }
